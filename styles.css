@@ -1,0 +1,49 @@
+body {
+  background: #f4f2f0;
+  font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+.container{
+  max-width: 600px;
+}
+
+.btn{
+  background: #373234;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#title {
+  color: rgba(22, 160, 119, 0.842);
+}
+
+.btn:focus{
+  outline: none !important;
+}
+
+button:hover {
+    background: rgba(22, 160, 119, 0.842);
+    color: white;
+}
+
+.input-group-text {
+    background: rgba(22, 160, 119, 0.842); 
+    color: white;
+}
+
+.username {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.time {
+  font-size: 0.7em;
+  color: #999;
+}
+
+.update-mssg {
+  text-align: center;
+  margin: 20px auto;
+}
